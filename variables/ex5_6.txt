@@ -1,0 +1,3 @@
+x is three in the first case and won't print in the second case because x isn't accessible outside the scope of the method .times.
+
+The program cannot access the variable or method shoes because it is outside the scope of the block of code that is being run.
