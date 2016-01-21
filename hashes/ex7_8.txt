@@ -1,0 +1,3 @@
+7. The first one used a symbol and the second one used the string 'hi there'.
+
+8. B

@@ -1,0 +1,20 @@
+2.  return = 1
+    value = [[b], [b,2], [b,3], [a,1], [a,2], [a,3]]
+
+    return = [1,2,3]
+    value = [[b,[1,2]], [a,[1,2,3]]]
+
+3. puts arr[1][0]
+
+4. 3
+   error
+   8
+
+5. e
+   A
+   nil
+
+6. A string is provided in place of an index number, which is in the form of an integer.  The erro can be fixed by referencing the index of the desired element in the array instead of its value.
+
+
+
