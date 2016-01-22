@@ -1,0 +1,3 @@
+10.   Yes. Yes. {a: [1,2,3]}, [{a: 1, b: 2}, {c: 3, d: 4}]
+
+11. api.rubyonrails.org.  It appears to be the easiest to navigate/search.  I also like the split screen setup.

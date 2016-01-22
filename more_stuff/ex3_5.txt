@@ -1,0 +1,3 @@
+3. Exception handling is the process to deal with errors as they arise in a program so that the errors do not cause the program to stop running.
+
+5. As the & is missing from the block parameter, an argument error is caused because an invalid argument is passed when one is required.
